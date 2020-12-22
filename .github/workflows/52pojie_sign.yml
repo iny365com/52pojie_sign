@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron:  5,10 11,23 * * * 
+    - cron:  0 1 * * * 
   watch:
     types: started
   
@@ -27,8 +27,8 @@ jobs:
         pip install -r requirements.txt
     - name: 签到       
       run: |
-        cookie='${{ secrets.COOKIE }}'
-        SCKEY='${{ secrets.SCKEY }}'
+        cookie: ${{ secrets.COOKIE }}
+        SCKEY: ${{ secrets.SCKEY }}
         
        
        

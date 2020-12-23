@@ -17,7 +17,6 @@
 3. 刷新网页，拉动开发者工具界面滑动条到顶部，找到52pojie.cn并点击
 4. 开发者工具右侧点击标头(headers)，下拉滑动条，找到请求标头（request headers），复制cookie中的 #### htVD_2132_saltkey=xxxxx;htVD_2132_auth=xxxxxx'两项
 
-
 ### 获取SCKEY
 1. 打开http://sc.ftqq.com/3.version
 2. 用GitHub帐号登录

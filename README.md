@@ -10,7 +10,8 @@
    secret值 你的52pojie cookie
 2. secret名 SCKEY
    secret值 你的sckey
-        
+ 
+ 
 ### 获取52pojie cookie
 1. 手动登录52pojie网站
 2. 按下F12或右键检查打开开发者工具，点击网络(network)选项卡

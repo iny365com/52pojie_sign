@@ -6,6 +6,7 @@
 如本签到系统的cron表达式为 '1 0 * * * *'，代表标准时间00：01， 第一位是分，第二位是时，后面三位为**，表示不做限制。北京时间属于东八区，时位+8，既是北京时间早上8:01
 
 
+
 ### 在setting-secrets里新建两个secret
 1. secret名 COOKIE
    secret值 你的52pojie cookie
